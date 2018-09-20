@@ -1,0 +1,21 @@
+/* RESINDEX.H */
+
+#define     MAXSPRITES		91
+#define     MAXPALETTES		7
+#define     MAXBOARDS		50
+#define     MAXRAFS		24
+
+#define     PIC1_FOFFSET		1LU
+#define     PIC2_FOFFSET		30725LU
+#define     PIC3_FOFFSET		35209LU
+#define     PIC4_FOFFSET		79373LU
+#define     PIC5_FOFFSET		143377LU
+#define     PIC6_FOFFSET		207381LU
+#define     PIC7_FOFFSET		271385LU
+#define     PIC8_FOFFSET		335389LU
+#define     PIC9_FOFFSET		399393LU
+#define     SPRITES_FOFFSET		463398LU
+#define     PALETTES_FOFFSET		523581LU
+#define     BOARDS_FOFFSET		528958LU
+#define     RAFS_FOFFSET		532259LU
+#define     TEXT_FOFFSET		912049LU
